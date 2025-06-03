@@ -1,0 +1,1 @@
+# Hello everyone, this is my project for FINAL exam of Artificial Intellegence course. I used a dataset from kaggle, here is the link -- https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification/data
